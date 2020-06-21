@@ -59,7 +59,7 @@
             android:layout_height="50dp"
             android:background="?attr/selectableItemBackgroundBorderless"
             android:scaleType="centerInside"
-            android:src="@drawable/ic_content_white_24dp"
+            app:srcCompat="@drawable/ic_content_white_24dp"
             />
 
         <TextView
@@ -87,7 +87,7 @@
             android:background="?attr/selectableItemBackgroundBorderless"
 
             android:scaleType="centerInside"
-            android:src="@drawable/ic_rotate_right_white_24dp"
+            app:srcCompat="@drawable/ic_rotate_right_white_24dp"
             />
 
         <TextView
@@ -114,7 +114,7 @@
             android:layout_height="50dp"
             android:background="?attr/selectableItemBackgroundBorderless"
             android:scaleType="centerInside"
-            android:src="@drawable/ic_flip_horizontal_white_24dp"
+            app:srcCompat="@drawable/ic_flip_horizontal_white_24dp"
             />
 
         <TextView
@@ -141,7 +141,7 @@
             android:layout_height="50dp"
             android:background="?attr/selectableItemBackgroundBorderless"
             android:scaleType="centerInside"
-            android:src="@drawable/ic_flip_vertical_white_24dp"
+            app:srcCompat="@drawable/ic_flip_vertical_white_24dp"
             />
 
         <TextView
@@ -169,7 +169,7 @@
             android:background="?attr/selectableItemBackgroundBorderless"
 
             android:scaleType="centerInside"
-            android:src="@drawable/ic_border_all_white_24dp"
+            app:srcCompat="@drawable/ic_border_all_white_24dp"
             />
 
         <TextView
@@ -195,7 +195,7 @@
                 android:layout_height="50dp"
                 android:background="?attr/selectableItemBackgroundBorderless"
                 android:scaleType="centerInside"
-                android:src="@drawable/ic_rounded_corner_white_24dp"
+                app:srcCompat="@drawable/ic_rounded_corner_white_24dp"
                 />
 
             <TextView
